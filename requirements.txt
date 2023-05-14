@@ -1,0 +1,13 @@
+backports.statistics==0.1.0
+Cython==0.29.32
+dl==0.1.0
+easyocr==1.6.2
+ipaddr==2.2.0
+keyring==18.0.1
+mock==5.0.2
+mypy_extensions==1.0.0
+numpy==1.22.1
+ordereddict==1.1
+Requests==2.30.0
+simplejson==3.19.1
+wincertstore==0.2.1
